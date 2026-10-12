@@ -29,7 +29,7 @@ Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
       "command": "python3",
       "args": ["/Users/lukeskywalker/Projects/jarvis-mcp/server.py"],
       "env": {
-        "BRAVE_API_KEY": "BSAi9dF8HAyfFvx7ZfuEDKTCUFh1bUY"
+        "BRAVE_API_KEY": "your-brave-api-key-here"
       }
     }
   }
